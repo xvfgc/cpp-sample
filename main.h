@@ -1,1 +1,1 @@
-void cpp_print(void);
+void cpp_print(int);
