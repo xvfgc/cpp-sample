@@ -1,7 +1,7 @@
 #include "mainz.h"
 #include <iostream>
 
-int add(int a, int b) {
+int32_t add(int32_t a, int32_t b) {
     std::cout << "cpp add func\n";
     return a + b;
 }
